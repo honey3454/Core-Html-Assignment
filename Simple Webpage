@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Web Page</title>
+</head>
+<body>
+    <Div>
+        <b>This text will be bolded.</b><br>
+
+        <i>This text will be italic.</i><br>
+
+        <u>This text will be underline.</u><br>
+
+        <mark>This text will be highlighted.</mark><br>
+
+        This is normal text <sup>this will be scripted</sup> This is normal again. <br>
+
+        This is normal text <sub>This text will be subcripted</sub>.<br>
+
+        Normal text <small>small text</small>.<br>
+
+        <del>This text will be deleted.</del>
+    </Div>
+
+
+</body>
+</html>
