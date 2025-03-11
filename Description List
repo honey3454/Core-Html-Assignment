@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Discription</title>
+</head>
+<body>
+    
+    <h2>Full Stack Web Development Tech Stack</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>The standard markup language for creating web pages.</dd>
+        
+        <dt>CSS</dt>
+        <dd>Styles the web pages to make them visually appealing.</dd>
+        
+        <dt>JavaScript</dt>
+        <dd>A programming language used to create dynamic and interactive web content.</dd>
+        
+        <dt>React</dt>
+        <dd>A JavaScript library for building user interfaces, especially for single-page applications.</dd>
+        
+        <dt>Node.js</dt>
+        <dd>A JavaScript runtime that allows running JavaScript on the server-side.</dd>
+        
+        <dt>Express.js</dt>
+        <dd>A minimal and flexible Node.js web application framework for building APIs.</dd>
+        
+        <dt>MongoDB</dt>
+        <dd>A NoSQL database used for storing data in JSON-like format.</dd>
+        
+        <dt>MySQL</dt>
+        <dd>A relational database management system commonly used for structured data storage.</dd>
+        
+        <dt>Git</dt>
+        <dd>A version control system used for tracking changes in code.</dd>
+        
+        <dt>Docker</dt>
+        <dd>A containerization platform that helps in deploying applications in isolated environments.</dd>
+    </dl>
+</body>
+</html>
