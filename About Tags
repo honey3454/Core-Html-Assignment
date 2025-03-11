@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - My Blog</title>
+</head>
+<body>
+    
+    <h2>HTML Tags List</h2>
+    <ol>
+        <li><strong>&lt;html&gt;</strong> - Defines the root of an HTML document.</li>
+        <li><strong>&lt;head&gt;</strong> - Contains metadata and links to scripts and styles.</li>
+        <li><strong>&lt;title&gt;</strong> - Sets the title of the web page.</li>
+        <li><strong>&lt;body&gt;</strong> - Contains the visible content of the page.</li>
+        <li><strong>&lt;h1&gt; to &lt;h6&gt;</strong> - Defines HTML headings.</li>
+        <li><strong>&lt;p&gt;</strong> - Defines a paragraph.</li>
+        <li><strong>&lt;a&gt;</strong> - Creates a hyperlink.</li>
+        <li><strong>&lt;img&gt;</strong> - Embeds an image.</li>
+        <li><strong>&lt;ul&gt; &lt;ol&gt; &lt;li&gt;</strong> - Defines lists (unordered, ordered, and list items).</li>
+        <li><strong>&lt;table&gt;</strong> - Creates a table.</li>
+    </ol>
+</body>
+</html>
