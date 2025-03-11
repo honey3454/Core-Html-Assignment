@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Web Page</title>
+</head>
+<body>
+    <Div>Take me to <a href="https://pwskills.com/">PW Skill</a> to buy a course. <br>
+
+        Take me to <a href="https://Mdndocs.com/">MDN Docs</a> to known more about Web Development. <br>
+        
+        Take me to <a href="https://pwskillslab.com/">Pw Skills Lab</a> to Practice live coding. <br>
+    </Div>
+
+
+</body>
+</html>
