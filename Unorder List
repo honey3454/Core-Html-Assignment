@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UnOrder list</title>
+</head>
+<body>
+
+    
+    <h2>Multi-Level Table of Contents</h2>
+    <ul>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">Part:1 Introduction.</a> </li>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">Part:2 Getting Start</a></li>
+        <ul>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.1 Installing the software</a></li>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.2 Creating a New projects</a></li>
+            <ul>
+                <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.2.1 Project Templates</a></li>
+                <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.2.2 Customizing Setting</a></li>
+            </ul>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.3 Exploring the Interface</a>
+            <ul>
+                <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.3.1 Toolbar features</a>
+                    <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.3.2 Panel Layout</a>
+                        <ul>
+                            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.3.2.1 Docking Panels</a></li>
+                            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">2.3.2.2 Tabbed Interface</a></li>
+                        </ul>
+            </ul>
+        </ul>
+        
+    </ul>
+
+
+<ul>
+    <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">Part:3 Advance Topics.</a> </li>
+    <ul>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.1 Working with Plugins</a> </li>
+        <ul>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.1.1 Installing Plugins</a> </li>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.1.2 Plugin Configuration</a> </li>
+        </ul>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.2 Customizing the UI</a> </li>
+        <ul>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.2.1 Changing Themes</a> </li>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.2.2 Configuring Shortcuts</a> </li>
+        </ul>
+        <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.3 Optimizing Performance</a> </li>
+        <ul>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.3.1 Caching Strategies</a> </li>
+            <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">3.3.2 Resources Minification</a> </li>
+        </ul>
+    </ul>
+</ul>
+<ul>
+    <li><a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-windows-pc/1/">Part:4 Conclusion</a> </li>
+</ul>
+</body>
+</html>
