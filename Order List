@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order List</title>
+</head>
+<body>
+    
+    <h2>Full Stack Web Development Tech Stack</h2>
+    <ol>
+        <li>
+            <h3>HTML</h3>
+            <table border="1">
+                <tr>
+                    <th>Tech Stack</th>
+                    <th>Primary Use Cases</th>
+                    <th>Key Features/Benefits</th>
+                </tr>
+                <tr>
+                    <td>HTML</td>
+                    <td>Structuring web pages</td>
+                    <td>Semantic elements, easy to learn, widely supported</td>
+                </tr>
+            </table>
+        </li>
+        <li>
+            <h3>CSS</h3>
+            <table border="1">
+                <tr>
+                    <th>Tech Stack</th>
+                    <th>Primary Use Cases</th>
+                    <th>Key Features/Benefits</th>
+                </tr>
+                <tr>
+                    <td>CSS</td>
+                    <td>Styling web pages</td>
+                    <td>Responsive design, animations, customization</td>
+                </tr>
+            </table>
+        </li>
+        <li>
+            <h3>JavaScript</h3>
+            <table border="1">
+                <tr>
+                    <th>Tech Stack</th>
+                    <th>Primary Use Cases</th>
+                    <th>Key Features/Benefits</th>
+                </tr>
+                <tr>
+                    <td>JavaScript</td>
+                    <td>Interactive and dynamic web content</td>
+                    <td>Client-side scripting, event-driven programming, large ecosystem</td>
+                </tr>
+            </table>
+        </li>
+    </ol>
+</body>
+</html>
